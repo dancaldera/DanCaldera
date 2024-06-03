@@ -36,9 +36,6 @@ Experienced Software Engineer with over 4 years of involvement in the full softw
 **Universidad de Guadalajara - Guadalajara, Jalisco, Mexico**
 Bachelor of Science, Biomedical Engineering, June 2020
 
-### Certifications
-AWS Certified Solutions Architect - Associate (2022)
-
 ### Languages
 - English: Fluent
 - Spanish: Native
