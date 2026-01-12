@@ -1,6 +1,6 @@
 # Hi, I'm Daniel Caldera 👋
 
-  Software Engineer with 5+ years building scalable solutions in Fintech, Medtech, and startups. Currently at **Holacasa (YC W23)** leading development of AI agent
+  Software Engineer with 5+ years building scalable solutions in Fintech, Medtech, and startups. Leading development of AI agent
   platforms for automated client communication.
 
   ## 🚀 What I Do
