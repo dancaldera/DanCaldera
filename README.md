@@ -4,10 +4,7 @@ Software Engineer building AI-powered solutions in Fintech, Medtech, and Communi
 
 ## Work
 
-**Allegro Response** ([harmony.allegroresponse.com](https://harmony.allegroresponse.com))
-Building voice AI workflows for customer support automation with Livekit, OpenAI, and AWS infrastructure.
-
-**Allegro Response** - Agentic AI Developer
+**Allegro Harmony** ([harmony.allegroresponse.com](https://harmony.allegroresponse.com))
 Building voice AI workflows for customer support automation with Livekit, OpenAI, and AWS infrastructure.
 
 **Authia** ([authia.app](https://authia.app))
