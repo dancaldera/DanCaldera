@@ -1,6 +1,6 @@
 # Daniel Caldera
 
-Software Engineer building AI-powered solutions in Fintech, Medtech, and Communications tech. Currently developing voice AI agents at Allegro Response.
+AI Engineer building AI-powered solutions in Fintech, Medtech, and Communications tech. Currently developing voice AI agents at Allegro Response.
 
 ## Work
 
