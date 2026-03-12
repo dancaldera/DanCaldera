@@ -8,7 +8,7 @@ AI Engineer building AI-powered solutions in Fintech, Medtech, and Communication
 Building voice AI workflows for customer support automation with Livekit, OpenAI, and AWS infrastructure.
 
 **Authia** ([authia.app](https://authia.app))
-Identity verification platform with secure document storage for 190+ countries.
+Identity verification platform with secure document storage & enterprise password security.
 
 **Hyperdesk AI** ([hyperdesk-ai.com](https://hyperdesk-ai.com))
 AI agent platform for banks and real estate companies automating client communication.
@@ -21,6 +21,9 @@ SaaS for medical students with AI-powered study tools.
 
 **Seerdb** ([github.com/dancaldera/seerdb](https://github.com/dancaldera/seerdb))
 Terminal database explorer for PostgreSQL, MySQL, and SQLite.
+
+**OpenPOS** ([github.com/dancaldera/openpos](https://github.com/dancaldera/openpos))
+Tauri V2 & Preact Desktop First Aplication POS system, full open-source.
 
 ## Connect
 
