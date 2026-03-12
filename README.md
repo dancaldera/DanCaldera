@@ -20,7 +20,7 @@ AI-powered interior design platform with 12+ design styles.
 SaaS for medical students with AI-powered study tools.
 
 **Seerdb** ([github.com/dancaldera/seerdb](https://github.com/dancaldera/seerdb))
-Terminal database explorer for PostgreSQL, MySQL, and SQLite.
+AI Terminal database explorer for PostgreSQL, MySQL, and SQLite.
 
 **OpenPOS** ([github.com/dancaldera/openpos](https://github.com/dancaldera/openpos))
 Tauri V2 & Preact Desktop First Aplication POS system, full open-source.
