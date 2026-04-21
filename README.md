@@ -22,8 +22,8 @@ SaaS for medical students with AI-powered study tools.
 **Seerdb** ([github.com/dancaldera/seerdb](https://github.com/dancaldera/seerdb))
 AI Terminal database explorer for PostgreSQL, MySQL, and SQLite.
 
-**OpenPOS** ([github.com/dancaldera/openpos](https://github.com/dancaldera/openpos))
-Electron Desktop First Aplication POS system, full open-source.
+**OpenPOS** ([openpos.xyz](https://openpos.xyz))
+Electron Desktop First Aplication POS system, The intelligent POS system.
 
 ## Connect
 
