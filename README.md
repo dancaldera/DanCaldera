@@ -24,7 +24,7 @@ AI Terminal database explorer for PostgreSQL, MySQL, and SQLite.
 
 ## Connect
 
-- [authia.app/dan](https://authia.app/dan)
+- [unlokc.com/dan](https://unlokc.com/dan)
 - [LinkedIn](https://linkedin.com/in/daniel-caldera)
 - [GitHub](https://github.com/dancaldera)
 - [Gitlab](https://gitlab.com/dancaldera)
