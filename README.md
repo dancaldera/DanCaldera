@@ -22,8 +22,11 @@ AI agent platform for banks and real estate companies automating client communic
 **RepasoENARM** ([repasoenarm.com](https://repasoenarm.com))
 SaaS for medical students with AI-powered study tools.
 
-**Seerdb** ([github.com/dancaldera/seerdb](https://github.com/dancaldera/seerdb))
-AI Terminal database explorer for PostgreSQL, MySQL, and SQLite.
+**QueryForge** ([queryforge.melody.software](https://queryforge.melody.software))
+A local desktop database client for browsing, querying, editing, and exporting data across the databases you already use.
+
+**Clavis AI** ([clavis.melody.software](https://clavis.melody.software))
+Practice piano in realtime with microphone or MIDI feedback, follow prepared learning paths for every level.
 
 ## Connect
 
