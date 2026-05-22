@@ -5,7 +5,7 @@ AI Engineer building AI-powered solutions in Fintech, Medtech, and Communication
 ## Work
 
 **Melody Soft.** ([melody.software](https://www.melody.software))
-Founder - Lowcost Voice AI workflows for all customer needs.
+Founder - Voice AI workflows for all customer needs.
 
 **Allegro Harmony** ([harmony.allegroresponse.com](https://harmony.allegroresponse.com))
 Building voice AI workflows for customer support automation with Livekit, OpenAI, and AWS infrastructure.
