@@ -13,7 +13,7 @@ Building voice AI workflows for customer support automation with Livekit, OpenAI
 **Authia** ([authia.app](https://authia.app))
 Identity verification platform with secure document storage & enterprise password security.
 
-**OpenPOS** ([openpos.xyz](https://openpos.xyz), ([Github]([https://github.com/dancaldera/openpos])
+**OpenPOS** ([openpos.xyz](https://openpos.xyz), ([Github](https://github.com/dancaldera/openpos))
 Electron Desktop First Aplication POS system, The open source intelligent POS system.
 
 **Hyperdesk AI** ([hyperdesk-ai.com](https://hyperdesk-ai.com))
