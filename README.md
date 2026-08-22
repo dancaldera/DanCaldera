@@ -19,14 +19,8 @@ Electron Desktop First Aplication POS system, The open source intelligent POS sy
 **Hyperdesk AI** ([hyperdesk-ai.com](https://hyperdesk-ai.com))
 AI agent platform for banks and real estate companies automating client communication.
 
-**RepasoENARM** ([repasoenarm.com](https://repasoenarm.com))
-SaaS for medical students with AI-powered study tools.
-
 **QueryForge** ([queryforge.melody.software](https://queryforge.melody.software))
 A local desktop database client for browsing, querying, editing, and exporting data across the databases you already use.
-
-**Clavis AI** ([clavis.melody.software](https://clavis.melody.software))
-Practice piano in realtime with microphone or MIDI feedback, follow prepared learning paths for every level.
 
 ## Connect
 
