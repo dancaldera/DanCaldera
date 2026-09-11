@@ -19,9 +19,6 @@ Electron Desktop First Aplication POS system, The open source intelligent POS sy
 **Hyperdesk AI** ([hyperdesk-ai.com](https://hyperdesk-ai.com))
 AI agent platform for banks and real estate companies automating client communication.
 
-**QueryForge** ([queryforge.melody.software](https://queryforge.melody.software))
-A local desktop database client for browsing, querying, editing, and exporting data across the databases you already use.
-
 ## Connect
 
 - [unlokc.com/dan](https://unlokc.com/dan)
