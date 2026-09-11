@@ -21,7 +21,5 @@ AI agent platform for banks and real estate companies automating client communic
 
 ## Connect
 
-- [unlokc.com/dan](https://unlokc.com/dan)
 - [LinkedIn](https://linkedin.com/in/daniel-caldera)
 - [GitHub](https://github.com/dancaldera)
-- [Gitlab](https://gitlab.com/dancaldera)
