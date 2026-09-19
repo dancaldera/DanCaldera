@@ -4,10 +4,10 @@ AI Engineer building AI-powered solutions in Fintech, Medtech, and Communication
 
 ## Work
 
-**Melody Soft.** ([melody.software](https://www.melody.software))
+**Melody Soft.** ([melody](https://app.softmelody.dev))
 Founder - Voice AI workflows for all customer needs.
 
-**Authia** ([authia.app](https://authia.app))
+**Authia** ([authia](https://authia.softmelody.dev))
 Identity verification platform with secure document storage & enterprise password security.
 
 **OpenPOS** ([openpos.xyz](https://openpos.xyz), ([Github](https://github.com/dancaldera/openpos))
