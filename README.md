@@ -15,7 +15,7 @@ Electron Desktop First Aplication POS system, The open source intelligent POS sy
 
 ## Connect
 
-Book a meeting: ([book]([https://www.softmelody.dev/#book))
+Book a meeting: ([book](https://www.softmelody.dev/#book))
 
 - [LinkedIn](https://linkedin.com/in/daniel-caldera)
 - [GitHub](https://github.com/dancaldera)
